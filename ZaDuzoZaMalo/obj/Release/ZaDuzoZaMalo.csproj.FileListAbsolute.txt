@@ -1,0 +1,16 @@
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\bin\Release\ZaDuzoZaMalo.exe.config
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\bin\Release\ZaDuzoZaMalo.exe
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\bin\Release\ZaDuzoZaMalo.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\bin\Release\ModelGry.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\bin\Release\ModelGry.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\ZaDuzoZaMalo.csprojResolveAssemblyReference.cache
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\MainWindow.g.cs
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\App.g.cs
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\ZaDuzoZaMalo_MarkupCompile.cache
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\ZaDuzoZaMalo_MarkupCompile.lref
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\MainWindow.baml
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\ZaDuzoZaMalo.g.resources
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\ZaDuzoZaMalo.Properties.Resources.resources
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\ZaDuzoZaMalo.csproj.GenerateResource.Cache
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\ZaDuzoZaMalo.exe
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ZaDuzoZaMalo\obj\Release\ZaDuzoZaMalo.pdb

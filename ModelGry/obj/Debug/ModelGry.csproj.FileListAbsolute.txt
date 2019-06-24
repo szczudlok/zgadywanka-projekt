@@ -1,0 +1,10 @@
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ModelGry\bin\Debug\ModelGry.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ModelGry\bin\Debug\ModelGry.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ModelGry\obj\Debug\ModelGry.csprojResolveAssemblyReference.cache
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ModelGry\obj\Debug\ModelGry.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo\ModelGry\obj\Debug\ModelGry.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo_KomputerZgaduje\ModelGry\bin\Debug\ModelGry.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo_KomputerZgaduje\ModelGry\bin\Debug\ModelGry.pdb
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo_KomputerZgaduje\ModelGry\obj\Debug\ModelGry.csprojResolveAssemblyReference.cache
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo_KomputerZgaduje\ModelGry\obj\Debug\ModelGry.dll
+J:\KOREPETYCJE_ PROJEKTYnew\WF_WCF_DLL_GraZaDużoZaMało\WPF_DLL\ZaDuzoZaMalo_KomputerZgaduje\ModelGry\obj\Debug\ModelGry.pdb

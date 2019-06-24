@@ -1,0 +1,29 @@
+﻿<Window x:Class="ZaDuzoZaMalo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ZaDuzoZaMalo"
+        mc:Ignorable="d"
+        Icon="Graphics/icon.png"
+        Title="Za dużo za mało" Height="400" Width="300" ResizeMode="NoResize">
+    <Canvas>
+        <Button x:Name="btnNewGame" Content="Nowa Gra" Height="30" Canvas.Left="10" Canvas.Top="10" Width="100" Click="btnNewGame_Click"/>
+        <Button x:Name="btnHistory" Content="Historia" Height="30" Canvas.Left="10" Canvas.Bottom="10" Width="100" Click="btnHistory_Click"/>
+        <Button x:Name="btnInfo" Content="Info" Height="30" Canvas.Right="10" Canvas.Bottom="10" Width="100" Click="btnInfo_Click"/>
+        <Label x:Name="lblFrom" Content="Zakres od" Canvas.Left="10" Canvas.Top="72" Width="72"/>
+        <TextBox x:Name="tbFrom" Height="26" Canvas.Left="87" TextWrapping="Wrap" Text="" Canvas.Top="72" Width="47" IsEnabled="False" />
+        <Label x:Name="lblTo" Content="Zakres do" Canvas.Left="160" Canvas.Top="72" Width="72"/>
+        <TextBox x:Name="tbTo" Height="26" Canvas.Left="237" TextWrapping="Wrap" Text="" Canvas.Top="72" Width="47" IsEnabled="False"/>
+        <TextBlock TextWrapping="Wrap" Margin="6,0,0,0"  Canvas.Left="10" Canvas.Top="114" Width="72">Liczba do odgadnięcia</TextBlock>
+        <TextBox x:Name="tbNumberToGuess" Height="26" Canvas.Left="87" TextWrapping="Wrap" Text="" Canvas.Top="114" Width="47" IsEnabled="False" />
+        <Button x:Name="btnStart" Content="Start" Height="26" Canvas.Right="10" Canvas.Bottom="10" Width="124" Canvas.Left="160" Canvas.Top="114" Click="btnStart_Click" IsEnabled="False"/>
+        <Label x:Name="lblComputerAttempt" Content="" Canvas.Left="10" Canvas.Top="163" Width="274" FontSize="14"/>
+        <Button x:Name="btnToLow" Content="Za mało" Height="30" Canvas.Right="10" Canvas.Bottom="10" Width="79"  Canvas.Left="10" Canvas.Top="211" Click="btnToLow_Click" IsEnabled="False"/>
+        <Button x:Name="btnToHigh" Content="Za dużo" Height="30" Canvas.Right="10" Canvas.Bottom="10" Width="79"  Canvas.Left="108" Canvas.Top="211" Click="btnToHigh_Click" IsEnabled="False"/>
+        <Button x:Name="btnCorrect" Content="Zgadłeś" Height="30" Canvas.Right="10" Canvas.Bottom="10" Width="79"  Canvas.Left="205" Canvas.Top="211" Click="btnCorrect_Click" IsEnabled="False"/>
+
+
+
+    </Canvas>
+</Window>
